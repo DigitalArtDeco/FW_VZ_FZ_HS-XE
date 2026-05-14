@@ -1,6 +1,6 @@
 # ESP32 VZ1 Display Driver Firmware
 
-Firmware binaries for decoding the VZ1/FZ data bus and driving an SSD1306 OLED display on ESP32 hardware.
+Firmware binaries for decoding the VZ_FZ_HS-XE data bus and driving an SSD1306 OLED display on ESP32 hardware.
 
 ## Installation
 
