@@ -169,16 +169,6 @@ Exit miniterm with `Ctrl+]`.
 - Try a different USB port/cable
 - Verify board power LED and device manager/system log
 
-## 10. Recommended Release Package Contents
-
-When sharing binaries, include:
-
-- `bootloader.bin`
-- `partition-table.bin`
-- `ESP32_VZ1_Display_driver.bin`
-- this file: `BINARY_INSTALLATION.md`
-- optional: checksums file (`SHA256SUMS.txt`)
-
-## 11. Legal Note
+## 10. Legal Note
 
 By using the firmware binaries, the user accepts the license terms in `EULA.md`.
