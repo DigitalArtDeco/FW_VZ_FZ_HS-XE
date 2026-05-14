@@ -1,13 +1,13 @@
 END USER LICENSE AGREEMENT (EULA)
-for ESP32 VZ1 Display Driver Firmware
+for ESP32 Display Driver Firmware
 Version: v1.0.0
 Effective Date: February 23, 2026
 
 This End User License Agreement ("Agreement") is a legal agreement between:
 
 Licensor: Harun Aktas
-Address: [ADD LEGAL MAILING ADDRESS]
-Email: [ADD CONTACT EMAIL]
+Address: 
+Email: akhar9119@gmail.com
 
 and you ("User").
 
@@ -71,5 +71,5 @@ and supersedes all prior or contemporaneous understandings on this subject.
 
 12. Contact
 Licensor: Harun Aktas
-Email: [ADD CONTACT EMAIL]
+Email: akhar9119@gmail.com
 
