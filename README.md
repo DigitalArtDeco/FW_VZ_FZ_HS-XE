@@ -1,4 +1,4 @@
-# ESP32 VZ_FZ_HS-XE Display Driver Firmware
+# ESP32 VZ_FZ_HS-XE Display Driver Firmware by Harun Aktas
 
 Firmware binaries for decoding the VZ_FZ_HS-XE data bus and driving an SSD1306 OLED display on ESP32 hardware.
 
