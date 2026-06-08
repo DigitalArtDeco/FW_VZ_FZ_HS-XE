@@ -43,7 +43,7 @@ python3 -m pip install --upgrade esptool
 Create a local folder, for example:
 
 ```text
-FW_vz_fz_hs-xe_v1/flashfiles/
+FW_vz_fz_hs-xe_vX/
   bootloader.bin
   partition-table.bin
   ESP32_VZ1_Display_driver.bin
