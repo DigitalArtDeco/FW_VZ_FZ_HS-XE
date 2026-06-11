@@ -96,13 +96,13 @@ python -m esptool --chip esp32 --port <PORT> --baud 460800 erase_flash
 Full write:
 
 ```bash
-python -m esptool --chip esp32 --port COM3 --baud 460800 write-flash ^
-  --flash-mode dio ^
-  --flash-freq 40m ^
-  --flash-size 2MB ^
-  0x1000 bootloader.bin ^
-  0x8000 partition-table.bin ^
-  0x10000 ESP32_VZ1_Display_driver.bin
+python -m esptool --chip esp32 --port COM3 --baud 460800 write-flash 
+--flash-mode dio 
+--flash-freq 40m 
+--flash-size 2MB 
+0x1000 bootloader.bin 
+0x8000 partition-table.bin 
+0x10000 ESP32_VZ1_Display_driver.bin
 ```
 
 Example (Windows):
