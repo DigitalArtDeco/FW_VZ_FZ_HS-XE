@@ -96,7 +96,7 @@ python -m esptool --chip esp32 --port <PORT> --baud 460800 erase_flash
 Full write:
 
 ```bash
-python -m esptool --chip esp32 --port COM3 --baud 460800 write-flash 
+python -m esptool --chip esp32 --port <PORT> --baud 460800 write-flash 
 --flash-mode dio 
 --flash-freq 40m 
 --flash-size 2MB 
