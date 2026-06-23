@@ -1,0 +1,103 @@
+# Hardware License
+
+Copyright (C) 2026 Harun Aktas
+
+The hardware design files in this repository are licensed under:
+
+CERN Open Hardware Licence Version 2, Strongly Reciprocal
+
+SPDX-License-Identifier: CERN-OHL-S-2.0
+
+## Covered hardware files
+
+This hardware license applies to hardware design material in this repository, including where present:
+
+schematics
+PCB layouts
+PCB manufacturing files
+Gerber files
+drill files
+pick and place files
+bill of materials
+assembly drawings
+mechanical drawings
+adapter board designs
+display board designs
+connector board designs
+hardware revision files
+hardware related project files
+
+## Not covered by this file
+
+This hardware license does not apply to:
+
+firmware source code
+compiled firmware binaries
+software tools
+installation manuals
+photographs
+written documentation
+logos
+trademarks
+third party components
+
+Those materials are covered by their own license notices where applicable.
+
+## Strongly reciprocal hardware license
+
+The CERN OHL S 2.0 is a strongly reciprocal open hardware license.
+
+You may study, use, make, modify and distribute hardware based on the covered hardware design files, subject to the terms of the CERN OHL S 2.0.
+
+If you convey modified hardware design files or products based on them, you must comply with the source availability and reciprocity obligations of the CERN OHL S 2.0.
+
+## No product certification by the author
+
+The publication of these hardware design files does not mean that a finished product is offered, certified, approved or placed on the market by the author.
+
+No CE marking is applied or claimed by the author for:
+
+the repository
+the hardware design files
+PCB files
+Gerber files
+assembled boards made by third parties
+kits made by third parties
+modified versions
+instruments modified by third parties
+products sold or distributed by third parties
+
+## Responsibility of builders and distributors
+
+Anyone who manufactures, assembles, modifies, imports, sells, distributes, installs or otherwise places hardware based on these files on the market is solely responsible for all legal, safety, regulatory and technical obligations that may apply.
+
+This includes, where applicable:
+
+CE marking
+EMC compliance
+electrical safety
+technical documentation
+EU declaration of conformity
+product liability
+warranty obligations
+repair regulations
+consumer protection rules
+local laws and import rules
+
+The author does not act as manufacturer, importer, distributor or seller of hardware made by third parties from these files.
+
+## No warranty
+
+The hardware design files are provided as is and without warranty of any kind.
+
+Use, manufacture, assembly, modification, installation and distribution are entirely at your own risk.
+
+To the maximum extent permitted by law, the author shall not be liable for any damage, loss, malfunction, injury, regulatory issue or other consequence arising from the use of these hardware design files or hardware built from them.
+
+Nothing in this notice excludes liability where such exclusion is not permitted by law.
+
+## Full license text
+
+The full CERN OHL S 2.0 license text should be included unchanged in this repository at:
+
+LICENSES/CERN-OHL-S-2.0.txt
