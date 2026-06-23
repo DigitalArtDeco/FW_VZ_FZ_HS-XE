@@ -62,8 +62,3 @@ For commercial licensing, custom PCB variants, production ready manufacturing fi
 
 [akhar9119@gmail.com](mailto:akhar9119@gmail.com)
 
-## Copyright
-
-Copyright © 2026 Harun Aktas. All rights reserved.
-
-The public availability of this repository does not grant any commercial rights.
