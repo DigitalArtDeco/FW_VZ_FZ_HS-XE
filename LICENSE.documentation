@@ -1,0 +1,92 @@
+# Documentation License
+
+Copyright (C) 2026 Harun Aktas
+
+The documentation in this repository is licensed under:
+
+Creative Commons Attribution ShareAlike 4.0 International
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+
+## Covered documentation files
+
+This documentation license applies to project documentation in this repository, including where present:
+
+installation guides
+manuals
+written instructions
+diagrams
+drawings
+tables
+photographs
+rendered images
+PDF documents
+Markdown files
+LaTeX files
+explanatory text
+assembly notes
+repair notes
+troubleshooting notes
+
+## Not covered by this file
+
+This documentation license does not apply to:
+
+firmware source code
+compiled firmware binaries
+software tools
+hardware design files
+PCB manufacturing files
+trademarks
+logos
+third party material
+
+Those materials are covered by their own license notices where applicable.
+
+## Attribution
+
+When sharing or adapting the documentation, please give appropriate credit, including:
+
+Project: VZ FZ HS XE OLED Display Replacement
+Author: Harun Aktas
+Repository: DigitalArtDeco FW VZ FZ HS XE
+
+You must also indicate whether changes were made.
+
+## Share alike
+
+If you adapt, translate, modify or build upon the documentation, you must distribute your adapted documentation under the same license or a compatible license, as required by CC BY SA 4.0.
+
+## No product claim
+
+The documentation describes an open source repair and hardware replacement project.
+
+It does not describe a finished consumer product offered for sale by the author.
+
+No CE marking, conformity assessment, product certification, warranty, guarantee or fitness for a particular purpose is provided by the author.
+
+Anyone who uses this documentation to build, install, modify, sell, import or distribute hardware is solely responsible for the resulting hardware, installation, safety and legal compliance.
+
+## No affiliation
+
+This project is not affiliated with, endorsed by, sponsored by or approved by Casio.
+
+Casio and all other product names, trademarks and company names belong to their respective owners.
+
+Any reference to Casio, Hohner or compatible instruments is made only to describe repair use, compatibility and installation context.
+
+## No warranty
+
+The documentation is provided as is and without warranty of any kind.
+
+Use, installation, modification and distribution are entirely at your own risk.
+
+To the maximum extent permitted by law, the author shall not be liable for any damage, loss, malfunction, injury, regulatory issue or other consequence arising from the use of this documentation.
+
+Nothing in this notice excludes liability where such exclusion is not permitted by law.
+
+## Full license text
+
+The full Creative Commons Attribution ShareAlike 4.0 International legal code should be included unchanged in this repository at:
+
+LICENSES/CC-BY-SA-4.0.txt
