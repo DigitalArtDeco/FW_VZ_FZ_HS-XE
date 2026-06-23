@@ -305,4 +305,4 @@ Make sure there is no space after the `^` character.
 
 ## 10. Legal Note
 
-By using the firmware binaries, the user accepts the license terms in `EULA.md`.
+By using the firmware binaries, the user accepts the license terms in `EULA_revised_as_open_source_notice.md`.
