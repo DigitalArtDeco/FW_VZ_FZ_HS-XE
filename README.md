@@ -44,7 +44,7 @@ These files are private and may be made available only under a separate written 
 
 End User License Agreement:
 
-`EULA.md`
+`EULA_revised_as_open_source_notice.md`
 
 By downloading, flashing, installing, copying, or using the firmware, you agree to the terms in `EULA_revised_as_open_source_notice.md`.
 
