@@ -1,0 +1,89 @@
+# License
+
+Copyright (C) 2026 Harun Aktas
+
+This repository is a multi license open source hardware and software project.
+
+Unless a file contains a more specific license notice, the following license structure applies:
+
+## 1. Firmware and software
+
+Firmware source code, software tools, scripts, build files and other software components are licensed under:
+
+GNU General Public License version 3 or later
+
+SPDX-License-Identifier: GPL-3.0-or-later
+
+See the full license text in:
+
+LICENSES/GPL-3.0-or-later.txt
+
+## 2. Hardware design files
+
+Hardware design files are licensed under:
+
+CERN Open Hardware Licence Version 2, Strongly Reciprocal
+
+SPDX-License-Identifier: CERN-OHL-S-2.0
+
+See:
+
+LICENSE.hardware
+
+and the full license text in:
+
+LICENSES/CERN-OHL-S-2.0.txt
+
+## 3. Documentation
+
+Documentation, installation guides, drawings, diagrams, photographs and written project material are licensed under:
+
+Creative Commons Attribution ShareAlike 4.0 International
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+
+See:
+
+LICENSE.documentation
+
+and the full license text in:
+
+LICENSES/CC-BY-SA-4.0.txt
+
+## 4. No finished product offered
+
+This repository documents an open source hardware repair and replacement project.
+
+It does not offer a finished consumer product for sale.
+
+No CE marking, conformity assessment, EU declaration of conformity, product certification, warranty, guarantee or fitness for a particular purpose is provided by the author.
+
+Anyone who builds, modifies, installs, sells, imports, distributes or otherwise places hardware based on this repository on the market is solely responsible for all legal, regulatory, technical and safety obligations that may apply.
+
+This includes, where applicable, electrical safety, electromagnetic compatibility, CE marking, product documentation, conformity assessment, liability, warranty obligations and local regulations.
+
+## 5. No affiliation
+
+This project is not affiliated with, endorsed by, sponsored by or approved by Casio.
+
+Casio and all other product names, trademarks and company names belong to their respective owners.
+
+Any reference to Casio, Hohner or compatible instruments is made only to describe repair use, compatibility and installation context.
+
+## 6. Third party components
+
+Third party parts, modules, libraries, tools, development frameworks and data sheets may be subject to their own licenses and terms.
+
+This repository does not change the license terms of third party material.
+
+Users, builders and distributors are responsible for checking and complying with all third party license terms that apply to their own use, build or distribution.
+
+## 7. No warranty
+
+The project files are provided as is and without warranty of any kind.
+
+Use, installation, modification and distribution are entirely at your own risk.
+
+To the maximum extent permitted by law, the author shall not be liable for any damage, loss, malfunction, injury, regulatory issue or other consequence arising from the use of this repository or hardware built from it.
+
+Nothing in this notice excludes liability where such exclusion is not permitted by law.
